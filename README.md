@@ -1,3 +1,9 @@
+# Personal Website
+- Irfan Nada Bayu Samudera
+
+# Status
+Work In Progress
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
