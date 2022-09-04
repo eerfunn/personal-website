@@ -40,11 +40,11 @@ export const Main = () => {
             <Row className='align-items-center'>
                 <Col xs={12} md={6} xl={7}>
                     <span className='main-header'>Welcome to my Portofolio</span>
-                    <h1>{`Hi, I'm Irfan Nada. I'm a `}<span className='wrap'>{text}</span></h1>
+                    <h1>{`Hi I'm Irfan Nada, I'm a `}<span className='wrap'>{text}</span></h1>
                     <p>I'm final year computer science student, have interest in full stack development, data analyst, animanga, and game.</p>
                 </Col>
                 <Col xs={12} md={6} xl={5}>
-                    <img src={headerImg} alt='Header'/>
+                    <img className='image-main' src={headerImg} alt='Header'/>
                 </Col>
             </Row>
         </Container>
