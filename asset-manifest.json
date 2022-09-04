@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.5c220f08.css",
+    "main.js": "/personal-website/static/js/main.95f1b9df.js",
+    "static/media/website-portfolio.png": "/personal-website/static/media/website-portfolio.a8d9001cf343e415a469.png",
+    "static/media/secondhand-portfolio.png": "/personal-website/static/media/secondhand-portfolio.3257b03b6f4cff5554af.png",
+    "static/media/cafein-portfolio.png": "/personal-website/static/media/cafein-portfolio.8dda5853cada4fb950a5.png",
+    "static/media/bcr-portfolio.png": "/personal-website/static/media/bcr-portfolio.9aa4c5206f41e1ddc08c.png",
+    "static/media/banner-bg.png": "/personal-website/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/cuberun.png": "/personal-website/static/media/cuberun.2e1abf99199e6be6bdcb.png",
+    "static/media/marketplace-portfolio.jpeg": "/personal-website/static/media/marketplace-portfolio.d278a47c0d10ad51acfa.jpeg",
+    "static/media/header-img.svg": "/personal-website/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/personal-website/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal-website/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal-website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/personal-website/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/nav-icon3.svg": "/personal-website/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/personal-website/index.html",
+    "static/media/nav-icon1.svg": "/personal-website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/personal-website/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.5c220f08.css.map": "/personal-website/static/css/main.5c220f08.css.map",
+    "main.95f1b9df.js.map": "/personal-website/static/js/main.95f1b9df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c220f08.css",
+    "static/js/main.95f1b9df.js"
+  ]
+}
