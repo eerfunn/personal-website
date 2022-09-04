@@ -1,6 +1,5 @@
 import {React, useEffect, useState} from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import { ArrowRightCircle } from 'react-bootstrap-icons'
 import headerImg from '../assets/images/header-img.svg'
 export const Main = () => {
     const [loopNum, setLoopNum] = useState(0)
@@ -41,7 +40,7 @@ export const Main = () => {
                 <Col xs={12} md={6} xl={7}>
                     <span className='main-header'>Welcome to my Portofolio</span>
                     <h1>{`Hi I'm Irfan Nada, I'm a `}<span className='wrap'>{text}</span></h1>
-                    <p>I'm final year computer science student, have interest in full stack development, data analyst, animanga, and game.</p>
+                    <p>I'm final year computer science student, have interest in full stack development, data analyst, animanga, game, etc.</p>
                 </Col>
                 <Col xs={12} md={6} xl={5}>
                     <img className='image-main' src={headerImg} alt='Header'/>

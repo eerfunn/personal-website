@@ -19,7 +19,7 @@ export const Footer = () => {
                 <a href="https://www.instagram.com/irfannbsin/"><img src={instagram} alt='Instagram'/></a>
                 <a href="https://github.com/eerfunn"><img src={github} alt='GitHub'></img></a>
             </Col>
-            <p>Copyright 2022</p>
+            <p>Copyright 2022 Irfan Nada</p>
         </Row>
     </Container>
    </footer>

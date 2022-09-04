@@ -5,7 +5,6 @@ import projectC from '../assets/images/cuberun.png'
 import projectD from '../assets/images/bcr-portfolio.png'
 import projectE from '../assets/images/cafein-portfolio.png'
 import projectF from '../assets/images/website-portfolio.png'
-import background2 from "../assets/images/color-sharp2.png"
 import { Col, Container, Row, Nav, Tab } from 'react-bootstrap'
 import { Project } from './Project'
 

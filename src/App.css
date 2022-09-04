@@ -334,17 +334,19 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-right: 10% !important;
 }
 .proj-imgbx::before {
-    width: 416px;
+  width: 416px;
   height: 250px;
   content: "";
-  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
-  opacity: 0.65;
+  opacity: 0.90;
   position: absolute;
   height: 0;
   transition: 0.4s ease-in-out;
+  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
 }
 .proj-imgbx:hover::before {
   height: 100%;
+  transition: 0.4s ease-in-out;
+  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
 }
 .proj-txtx {
   position: absolute;
@@ -430,12 +432,13 @@ footer{
   .proj-imgbx {
   width: 250px;
   height: 150px;
-  margin-left: 25% !important;
-  margin-right: 25% !important;
+  margin-left: 19% !important;
+  margin-right: 19% !important;
 }
 .proj-imgbx::before {
-    width: 250px;
+  width: 250px;
   height: 150px;
+  background: none;
 }
 .img-portfolio{
   width: 250px;
