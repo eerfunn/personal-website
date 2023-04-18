@@ -11,43 +11,42 @@ import { Project } from './Project'
 export const Projects = () => {
     const projects = [
         {
-            title: "Marketplace",
-            description: "Marketplace built with Laravel",
-            imgUrl: projectA,
-            projUrl: ''
-        },
-        {
-            title: "Second Hand",
-            description: "Marketplace built by me and my team, use MERN and Scrum",
-            imgUrl: projectB,
-            projUrl: ''
-        }
-        ,
-        {
-            title: "Cuberun",
-            description: "Game built with Unity Game Engine ",
-            imgUrl: projectC,
-            projUrl: ''
-        },
-         {
             title: "Binar Car Rental",
-            description: "Car rental landing page with HTML, CSS, JS",
+            description: "Car rental landing page, built with HTML, CSS, JS, and Bootstrap 5",
             imgUrl: projectD,
-            projUrl: ''
+            projUrl: 'https://github.com/eerfunn/binarcarrental-slicing'
         },
-        {
-            title: "Cafein",
-            description: "Coffee shop company profile, built with CodeIgniter, and Bootstrap",
-            imgUrl: projectE,
-            projUrl: ''
-        }
-        ,
         {
             title: "Personal Website",
             description: "Built with React.js",
             imgUrl: projectF,
-            projUrl: ''
+            projUrl: 'eerfunn.github.io/personal-website'
+        },
+        {
+            title: "Marketplace",
+            description: "Marketplace built with Laravel",
+            imgUrl: projectA,
+            projUrl: 'https://github.com/eerfunn/uwu-marketplace-deploy'
+        },
+        {
+            title: "Second Hand",
+            description: "Marketplace built by my team using MERN stack",
+            imgUrl: projectB,
+            projUrl: 'https://github.com/eerfunn/backend-secondhand-kelompok2'
+        },
+        {
+            title: "Cuberun",
+            description: "Simple Game built with Unity Game Engine",
+            imgUrl: projectC,
+            projUrl: 'https://github.com/eerfunn/the-cube-game'
+        },
+        {
+            title: "Cafein",
+            description: "Coffee shop company profile, built with CodeIgniter, and Bootstrap 4",
+            imgUrl: projectE,
+            projUrl: 'https://github.com/eerfunn/cafein'
         }
+        
     ]
   return (
     <section className='project' id='projects'>
